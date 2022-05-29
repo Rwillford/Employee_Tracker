@@ -32,8 +32,13 @@ Next, it was time to conquer the js file to make this whole app work<br>
 I created my connection to the database then my main menu with a switch statement to all the other function in the app. 
 Finally I created all the function needed for this assignment plus a couple of the bonus ones as well
 
-Here Is a video fo it working:
+Here Is a video of it working:
+
+
+https://user-images.githubusercontent.com/99914942/170889222-8c1483ce-b9df-44fd-842f-5794812238ac.mp4
+
 
 
 Here is a screenshot:
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/99914942/170889235-66f00da9-5930-4cd7-86ff-9c8e0aa84cc9.png">
 
